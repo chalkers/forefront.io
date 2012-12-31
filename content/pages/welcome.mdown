@@ -1,4 +1,0 @@
-Title: Hello World
-Date: December 31, 2012
-
-This is my new blog.
